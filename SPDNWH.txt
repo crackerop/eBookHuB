@@ -1,0 +1,7 @@
+(4, 6)
+(7, 8)
+TIME: 10 PM
+('NAME:', 'deep')
+('MOBILE NUMBER:', 7984865391)
+('Total cost:', 400)
+
